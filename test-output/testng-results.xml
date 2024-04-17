@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-11T21:02:19 IST" name="Default suite" finished-at="2024-04-11T21:02:19 IST" duration-ms="109">
+    <groups>
+    </groups>
+    <test started-at="2024-04-11T21:02:19 IST" name="Default test" finished-at="2024-04-11T21:02:19 IST" duration-ms="109">
+      <class name="com.testngproject.Dataprovider">
+        <test-method signature="credential(java.lang.String,java.lang.String)[pri:0, instance:com.testngproject.Dataprovider@7fee8714]" started-at="2024-04-11T21:02:19 IST" name="credential" data-provider="data" finished-at="2024-04-11T21:02:19 IST" duration-ms="24" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Praveen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credential -->
+        <test-method signature="credential(java.lang.String,java.lang.String)[pri:0, instance:com.testngproject.Dataprovider@7fee8714]" started-at="2024-04-11T21:02:19 IST" name="credential" data-provider="data" finished-at="2024-04-11T21:02:19 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credential -->
+      </class> <!-- com.testngproject.Dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
